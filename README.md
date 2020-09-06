@@ -7,5 +7,5 @@
 ### Use Pyano
 python pyano.py
 ### Load .pyano files
-put your .pyano file in the records/ folder and type this
-python pyano.py -t <piano speed in sec> -o <name of the .pyano file>
+* put your .pyano file in the records/ folder and type this
+* python pyano.py -t <piano speed in sec> -o <name of the .pyano file>
